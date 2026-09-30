@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.xn--xlinkworld-cn3r594m.com/sitemap.xml
